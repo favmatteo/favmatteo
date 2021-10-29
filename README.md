@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @favmatteo
+- 🌱 I’m currently learning C++
