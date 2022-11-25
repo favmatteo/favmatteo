@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Matteo and I love programming. 🚀</div>  
   
 
-- 🌱 I’m currently learning C++  
+- 🌱 I’m currently learning C++ and Rust
   
 
 - 🌍 I'm from Italy 🇮🇹  🍕 🍝  
