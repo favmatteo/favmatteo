@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Matteo and I love programming. 🚀</div>  
+### <div align="center">Hi, I'm Matteo🚀</div>  
   
 
-- 🌱 I’m currently learning C++ and Rust
+- 🌱 I’m currently learning Node.JS
   
 
 - 🌍 I'm from Italy 🇮🇹  🍕 🍝  
