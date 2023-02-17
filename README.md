@@ -5,10 +5,6 @@
 
 ### <div align="center">Hi, I'm Matteo🚀</div>  
   
-
-- 🌱 I’m currently learning Node.JS
-  
-
 - 🌍 I'm from Italy 🇮🇹  🍕 🍝  
   
 
