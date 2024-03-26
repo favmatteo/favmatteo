@@ -1,6 +1,6 @@
 ### <div align="center">Hi, I'm Matteo🚀</div>  
   
-- 🌍 I'm from Italy 🇮🇹  🍕 🍝  
+- 🌍 I'm from Venice, Italy 🇮🇹  🍕 🍝  
   
 
 <br/>
